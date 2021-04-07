@@ -1,2 +1,3 @@
 hello file2
+second modification for file2
 modify file2
